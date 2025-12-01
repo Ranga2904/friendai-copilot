@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FriendAI - Your Social Anxiety Messaging Copilot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <h1>💬 FriendAI</h1>
+            <p class="tagline">Turn anxiety into confidence, one message at a time</p>
+        </header>
+
+        <!-- Main App -->
+        <main>
+            <!-- Input Section -->
+            <section class="input-section">
+                <label for="message-input">Paste the message you received:</label>
+                <textarea id="message-input" placeholder="e.g., 'Hey! Want to grab coffee tomorrow?'"
+                    rows="4"></textarea>
+            </section>
+
+            <!-- Mode Selection -->
+            <section class="mode-section">
+                <label>What kind of reply do you need?</label>
+                <div class="mode-buttons">
+                    <button class="mode-btn active" data-mode="warm">
+                        ☀️ Warm & Friendly
+                    </button>
+                    <button class="mode-btn" data-mode="confident">
+                        💪 Confident & Direct
+                    </button>
+                    <button class="mode-btn" data-mode="simple">
+                        ✅ Simple & Safe
+                    </button>
+                    <button class="mode-btn" data-mode="smalltalk">
+                        💭 Start Small Talk
+                    </button>
+                    <button class="mode-btn calm-mode" data-mode="calm">
+                        🧘 Calm Me First
+                    </button>
+                </div>
+            </section>
+
+            <!-- Generate Button -->
+            <button id="generate-btn" class="generate-btn">
+                Generate Replies ✨
+            </button>
+
+            <!-- Results Section -->
+            <section class="results-section" id="results-section" style="display: none;">
+                <h3>Here are some suggestions:</h3>
+                <div id="suggestions-container"></div>
+                <button id="regenerate-btn" class="secondary-btn">
+                    🔄 Show More Options
+                </button>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer>
+            <p>Made with 💙 for anyone who finds texting stressful</p>
+            <p class="small">No data saved. No tracking. Just help.</p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
