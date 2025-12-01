@@ -1,0 +1,36 @@
+{
+  "responses": [
+    "Sounds good! I'm in. Let me know the time and place.",
+    "Yes, let's do it. What works for you?",
+    "I'm available and interested. Send me the details.",
+    "Count me in! Looking forward to it.",
+    "That works for me. I'll be there.",
+    "Absolutely. Just tell me when and where.",
+    "Perfect timing! I'd be happy to join.",
+    "I'm free and that sounds great. Let's confirm the details.",
+    "Yes! I've been meaning to do something like this.",
+    "I'm interested. What's the plan?",
+    "That could work well. Give me the specifics and I'll make it happen.",
+    "I'd like that. Let's coordinate schedules.",
+    "Good idea! I'm on board.",
+    "Sure thing! I'll make time for that.",
+    "Yes, I can make that work. Looking forward to connecting.",
+    "I'm game! Just send over the info.",
+    "That sounds worthwhile. I'm in.",
+    "Great suggestion! Let's move forward with it.",
+    "I can do that. Let me know what you need from me.",
+    "Perfect! I'll plan for it. Thanks for reaching out."
+  ],
+  "context": {
+    "meeting": [
+      "I have availability this week. What times work for you?",
+      "Let's schedule it. I can do Tuesday or Thursday.",
+      "I'm open to meeting. Propose a few time slots."
+    ],
+    "favor": [
+      "I can help with that. Give me the details and I'll take care of it.",
+      "Sure, I'm happy to assist. What do you need?",
+      "No problem at all. Tell me what you're looking for."
+    ]
+  }
+}
