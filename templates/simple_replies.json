@@ -1,0 +1,48 @@
+{
+  "responses": [
+    "Sure!",
+    "Yes, that works.",
+    "Sounds good!",
+    "I'm in.",
+    "Okay!",
+    "Yes please!",
+    "Perfect.",
+    "That's fine with me.",
+    "Count me in!",
+    "Absolutely.",
+    "I'd like that.",
+    "Let's do it.",
+    "Okay, thanks!",
+    "Yes, thank you!",
+    "That sounds nice.",
+    "I'm interested.",
+    "I can do that.",
+    "Works for me!",
+    "I'm available.",
+    "Great, let's plan it."
+  ],
+  "yes_variants": [
+    "Yes!",
+    "Sure thing!",
+    "Definitely!",
+    "Of course!",
+    "Absolutely!",
+    "I'd love to!",
+    "Sounds perfect!",
+    "I'm happy to!",
+    "Yes please!",
+    "Count me in!"
+  ],
+  "no_variants": [
+    "I can't this time, but thank you!",
+    "I'll have to pass, but I appreciate the invite.",
+    "Not this time, but maybe next time?",
+    "I'm not available, but thanks for thinking of me!",
+    "I can't make it, sorry!",
+    "That won't work for me, but thank you!",
+    "I have to decline, but I hope you have fun!",
+    "Not able to, but I appreciate you asking!",
+    "I'll have to skip this one, thanks anyway!",
+    "Can't make it, but let's catch up another time!"
+  ]
+}

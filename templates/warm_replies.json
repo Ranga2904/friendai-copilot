@@ -1,0 +1,36 @@
+{
+  "responses": [
+    "That sounds lovely! I'd really enjoy that 😊 What time works best for you?",
+    "I'd love to! Thanks so much for thinking of me. Should I bring anything?",
+    "Yes! That would be wonderful. I'm looking forward to it already!",
+    "Absolutely! That sounds like so much fun. Count me in!",
+    "I'm so glad you reached out! Yes, let's definitely do that.",
+    "That's so thoughtful of you! I'd really appreciate the company.",
+    "Oh that sounds perfect! I've been hoping we could catch up.",
+    "Yes please! That would really brighten my day 🌟",
+    "I'd be happy to join you! Thanks for the invitation.",
+    "That sounds amazing! I'm totally in. Just let me know the details.",
+    "I appreciate you asking! Yes, I'd love to be there.",
+    "Aw, thank you! That means a lot. I'd be delighted to come.",
+    "That sounds really nice! I could use some quality time like that.",
+    "Definitely! I'm excited about this. Thanks for including me!",
+    "Yes! You always have the best ideas. I'm looking forward to it.",
+    "I'm so happy you suggested this! Absolutely yes.",
+    "That would be wonderful! I really value our time together.",
+    "Oh I'd love that! Thanks for making time for this.",
+    "Count me in! That sounds like exactly what I need right now.",
+    "Yes, I'd really enjoy that! Let's make it happen 💙"
+  ],
+  "context": {
+    "question": [
+      "Yes, I think so! What did you have in mind?",
+      "I'd need to check, but I'm interested! Tell me more?",
+      "Possibly! Can you share a bit more detail?"
+    ],
+    "compliment": [
+      "Oh wow, thank you so much! That really means a lot to me 😊",
+      "That's so kind of you to say! I really appreciate that.",
+      "Aw, you made my day! Thank you for the kind words."
+    ]
+  }
+}

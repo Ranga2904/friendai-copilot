@@ -1,0 +1,36 @@
+{
+  "starters": [
+    "How's your week going so far?",
+    "Have you been up to anything fun lately?",
+    "How have you been?",
+    "What's new with you?",
+    "How's everything been going?",
+    "Have you seen any good shows or movies lately?",
+    "What have you been working on recently?",
+    "How's the weather treating you?",
+    "Any exciting plans coming up?",
+    "How's your day been?",
+    "What did you do this weekend?",
+    "Have you tried any good restaurants lately?",
+    "Read anything interesting recently?",
+    "How's work been treating you?",
+    "What are you up to these days?",
+    "Been keeping busy?",
+    "How's everything in your world?",
+    "Anything interesting happening with you?",
+    "What's been the highlight of your week?",
+    "How have things been on your end?"
+  ],
+  "responses_to_smalltalk": [
+    "Pretty good, thanks for asking! How about you?",
+    "Not too bad! Just staying busy. What about yourself?",
+    "Things have been good! How are things with you?",
+    "Can't complain! How have you been?",
+    "It's been a solid week! How's yours going?",
+    "All good here! What's new with you?",
+    "Going well, thanks! How about on your end?",
+    "Pretty relaxed actually! How about you?",
+    "Been keeping busy in a good way! What about you?",
+    "Things are good! Anything exciting with you?"
+  ]
+}
